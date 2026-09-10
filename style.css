@@ -388,3 +388,14 @@ footer span {
         border-color: #1e4b82;
     }
 }
+
+
+/* Icono de barbería para el botón "Servicio Barberia" */
+.service-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+  font-size: 18px;
+  color: #c9a45c;
+}
