@@ -1,3 +1,1 @@
-# zapatagus.github.io
-
-Sitio personal de Agustín Zapata.
+# https://github.com/soportechdesk-star/jonathan-cv/
